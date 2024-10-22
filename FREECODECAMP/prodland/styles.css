@@ -125,9 +125,11 @@ body {
 .video-container {
     margin-top: var(--spacing-md);
     position: relative;
-    padding-bottom: 56.25%; 
+    padding-bottom: 40%; 
     height: 0;
     overflow: hidden;
+    border-radius: var(--border-radius);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .tutorial-video {
