@@ -1,0 +1,96 @@
+body {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    background-image: linear-gradient(
+        115deg,
+        rgba(58, 58, 158, 0.8),
+        rgba(136, 136, 206, 0.7)
+    ), url("https://images.ctfassets.net/pdf29us7flmy/2ZtlOujWNf4ztl5wbRnTpC/4a394c414c6a2e3f68749802e5e4d042/GettyImages-689291632_optimized.jpg?w=720&q=100&fm=jpg");
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#description {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#survey-form {
+    font-size: 1.2rem;
+    text-align: left;
+    background-color: rgb(30, 65, 95);
+    padding: 2rem;
+    border-radius: 1.25rem;
+    width: 90%;
+    max-width: 800px;
+    margin: 2rem auto;
+}
+
+#dropdown,
+.form-control {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+h1, p {
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+.hobbies,
+.gender,
+.about {
+    margin-bottom: 1rem;
+}
+
+#submit {
+    font-size: 1rem;
+    width: 100%;
+    max-width: 300px;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    margin: 0 auto;
+    display: block;
+}
+
+/* Responsive Styles */
+@media (min-width: 768px) {
+    #survey-form {
+        padding: 3rem;
+    }
+
+    #dropdown,
+    .form-control {
+        font-size: 1.2rem;
+    }
+
+    #submit {
+        font-size: 1.2rem;
+        max-width: 200px;
+    }
+}
+
+@media (min-width: 1024px) {
+    #survey-form {
+        font-size: 1.5rem;
+        padding: 4rem;
+    }
+
+    #dropdown,
+    .form-control {
+        font-size: 1.5rem;
+    }
+
+    #submit {
+        font-size: 1.5rem;
+        max-width: 250px;
+    }
+}
+
