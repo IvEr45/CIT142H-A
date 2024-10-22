@@ -8,8 +8,8 @@
 </head>
 <body>
     <nav id="navbar">
-        <h1>Python For Beginners</h1>
-        <a class="nav-link" href="#Python_Introduction">Introduction</a>
+        <header>Python For Beginners</header>
+        <a class="nav-link" href="#Python_Introduction">Python Introduction</a>
         <a class="nav-link" href="#Python_Variables">Python Variables</a>
         <a class="nav-link" href="#Python_Data_Types">Python Data Types</a>
         <a class="nav-link" href="#Python_Operators">Python Operators</a>
@@ -18,7 +18,7 @@
     </nav>
     <main id="main-doc">
         <section class="main-section" id="Python_Introduction">
-            <h1>Introduction</h1>
+            <header>Python Introduction</header>
             <p>
                 Python is a popular programming language. It was 
                 created by Guido van Rossum, and released in 1991.
@@ -54,21 +54,25 @@
                     <li>Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.</li>
                 </ul>
             </p>
+            <code>
             <p class="examples">Example: <br>
                 print("Hello, World!")  <br>
                 Output: Hello World      
             </p>
+        </code>
         </section>
         <section class="main-section" id="Python_Variables">
-            <h1>Python Variables</h1>
+            <header>Python Variables</header>
             <p>
                 Python has no command for declaring a variable.
                 A variable is created the moment you first assign a value to it.
             </p>
+            <code>
             <p class="examples">Example:<br>
                 x = 5 <br>
                 y = "John"
             </p>
+            </code>
             <p><h3>Variable Names</h3>
                 A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
                 <ul>
@@ -79,6 +83,7 @@
                     <li>A variable name cannot be any of the Python keywords.</li>
                 </ul>
             </p>
+            <code>
             <p class="examples">
                 Example of Legal variable names: <br>
                 myvar = "John"<br>
@@ -93,9 +98,10 @@
                 my-var = "John"<br>
                 my var = "John"<br>
             </p>
+        </code>
         </section>
         <section class="main-section" id="Python_Data_Types">
-            <h1>Python Data Types</h1>
+            <header>Python Data Types</header>
             <p>
                 In programming, data type is an important concept.
                 Variables can store data of different types, and different types can do different things.
@@ -116,6 +122,7 @@
             <p><h3>Getting the Data Type</h3>
                 You can get the data type of any object by using the type() function:
             </p>
+            <code>
             <p class="examples">
                 Example <br>
                 Print the data type of the variable x:<br>
@@ -123,17 +130,21 @@
                 print(type(x))<br>
                 Output: int
             </p>
+        </code>
         </section>
         <section class="main-section" id="Python_Operators">
-            <h1>Python Operators</h1>
+            <header>Python Operators</header>
+           
             <p>
                 Operators are used to perform operations on variables and values.
                 In the example below, we use the + operator to add together two values:
             </p>
-            <p class="examples">
-                Example:<br>
-                print(10 + 5)
-            </p>
+            <code>
+                <p class="examples">
+                    Example:<br>
+                    print(10 + 5)
+                </p>
+            </code>
             <p>Python Arithmetic Operators:
                 <table>
                     <thead>
@@ -196,16 +207,18 @@
             </p>
         </section>
         <section class="main-section" id="Python_Lists">
-            <h1>Python Lists</h1>
+            <header>Python Lists</header>
             <p>
                 Lists are used to store multiple items in a single variable.
                 Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
                 Lists are created using square brackets:
             </p>
+            <code>
             <p class="examples">Example: <br>
             thislist = ["apple", "banana", "cherry"]<br>
             print(thislist)
             </p>
+        </code>
             <p><h3>List Items</h3>
                 List items are ordered, changeable, and allow duplicate values.
                 List items are indexed, the first item has index [0], the second item has index [1] etc.
@@ -224,15 +237,18 @@
             <p><h3>List Length</h3>
                 To determine how many items a list has, use the len() function:
             </p>
+            <code>
             <p class="examples">
                 Example <br>
                 Print the number of items in the list:<br>
                 thislist = ["apple", "banana", "cherry"]<br>
                 print(len(thislist))
             </p>
+        </code>
         </section>
         <section class="main-section" id="Reference">
-            <h1>Reference</h1>All the documentation in this page is taken from
+            <header>Reference</header>
+            All the documentation in this page is taken from
             <a href="https://www.w3schools.com/python/" target="_blank">W3schools</a>
         </section>
     </main>
