@@ -1,4 +1,4 @@
-To access the websites in the FREECODECAMP hosted here in github, just click the links below: <br/><br/>
+To access the websites in the FREECODECAMP folder hosted here in github, just click the links below: <br/><br/>
 Survey - https://iver45.github.io/CIT142H-A/FREECODECAMP/survey <br/> 
 Tribute Page - https://iver45.github.io/CIT142H-A/FREECODECAMP/tribute<br/>
 Technical Documentation Page - https://iver45.github.io/CIT142H-A/FREECODECAMP/techdoc<br/>
