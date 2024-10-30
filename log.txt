@@ -1,0 +1,247 @@
+commit 23615a34b5d292085617c30635301f40439128e6
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:46:41 2024 +0800
+
+    Update README.md
+
+commit 469ea4e014b326117492f9b0a9bef0f288afb6ed
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:46:17 2024 +0800
+
+    Add files via upload
+
+commit 731f872c8534e20a59bd98a2945800d7ea5caa81
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:45:43 2024 +0800
+
+    Delete FREECODECAMP/techdoc directory
+
+commit 4d5e7cd8c5fe87e72636b6b90c80ab6f6906e964
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:43:45 2024 +0800
+
+    Add files via upload
+
+commit aae030cfb86b7e8cab1d1d2f274da2c80dcf01d6
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:43:31 2024 +0800
+
+    Delete FREECODECAMP/techdoc/index.html
+
+commit abf57fb63655b47c2f0dc0fc17d67e2433b3a423
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:42:33 2024 +0800
+
+    Add files via upload
+
+commit fb7185246351ea8d86d54a5a83cd634310784e65
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:38:36 2024 +0800
+
+    Update styles.css
+
+commit fa091d97a2db6d854d5898f4c947d9b9b81cf73d
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:34:46 2024 +0800
+
+    Add files via upload
+
+commit 96689ca8baad535bf7c5e730ac6bdcfd13a3127e
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:34:12 2024 +0800
+
+    Add files via upload
+
+commit b26ada92f0124a4708b6114978ec616486d00f2a
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:05:42 2024 +0800
+
+    Update README.md
+
+commit f38d7c1cf4d460c25a95b95fe5ea7e623abb5903
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 02:05:26 2024 +0800
+
+    Update README.md
+
+commit 987a299f0fe18ed7c0399995b2488ecaf2d71678
+Author: IvEr45 <iferasan@gmail.com>
+Date:   Wed Oct 23 02:02:34 2024 +0800
+
+    FREECODECAMP
+
+commit c29b040e462373cc1c9bfbf7dabbbf95df117c44
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 01:56:23 2024 +0800
+
+    Delete TributePage directory
+
+commit b7cfd38b217895e92fc6b299274d8605c952d703
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 01:56:13 2024 +0800
+
+    Delete TechnicalDocumentationPage directory
+
+commit f83034e7d3bb04c625d99e5f17342908bbce87fb
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 01:56:02 2024 +0800
+
+    Delete Survey directory
+
+commit 567c2fda21bafa74f15e329ef300754836e96487
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 01:55:51 2024 +0800
+
+    Delete ProductLandingPage directory
+
+commit 78eaed11a92c0099481d0630b8ed02d20998cd76
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 01:55:36 2024 +0800
+
+    Delete PeresonalPortfolio directory
+
+commit 9fba76131bc6e521e3ed9d81727306f793f9ede1
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Wed Oct 23 01:37:39 2024 +0800
+
+    Update README.md
+
+commit bfb7dee49250d796a57dd14ba5a3b843620c5d96
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:26:33 2024 +0800
+
+    Update README.md
+
+commit 92ec4298961f9f5c85e3aa8c26c4e16f5cd47262
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:25:53 2024 +0800
+
+    Update README.md
+
+commit 0b165cc5500c8c89f511c1af8c6b79e3d49a61d3
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:25:44 2024 +0800
+
+    Update README.md
+
+commit 6572b9a55a1eb9aa597f88317e5450d413e6706f
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:25:22 2024 +0800
+
+    Update README.md
+
+commit a230b939fec6b55ee0500160376bd8dd5feb6cac
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:22:20 2024 +0800
+
+    Add files via upload
+
+commit bcca674175f4605461c27688bc4a784ee8bf31b3
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:20:13 2024 +0800
+
+    Add files via upload
+
+commit 2156dc08926e300dd207a6224efab6ebac28c3d7
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:18:44 2024 +0800
+
+    Add files via upload
+
+commit 9c463b0336ccae400080f4e37f33756183683097
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:16:11 2024 +0800
+
+    Add files via upload
+
+commit 0370f58695e7b9bb89c44e599eb1f544a7f0c3f2
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:12:49 2024 +0800
+
+    Add files via upload
+
+commit 6079771282b1742f1d38204837ccc57b7d68b84e
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 19:12:21 2024 +0800
+
+    Add files via upload
+
+commit a2db12073fc959ea0e19a347d95202ebb5e0edba
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 03:14:28 2024 +0800
+
+    Update README.md
+
+commit 85e8ffc81ce32e2b3239027c4d08d7e157d57e7b
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 03:13:11 2024 +0800
+
+    Update README.md
+
+commit a03a043729c70f07cc697ac88257a8635e31ec30
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Tue Oct 22 03:12:05 2024 +0800
+
+    Add files via upload
+
+commit c97f942bf48f72b8e2eb4a265d092d163852851b
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Mon Oct 21 23:29:02 2024 +0800
+
+    Update README.md
+
+commit 4bc6f33111ca7cd22522adb55c39b5a9b4fc367b
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Mon Oct 21 23:28:43 2024 +0800
+
+    Update README.md
+
+commit ceb6687a58da03351eb9f9c33038e1ad5bec1abc
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Mon Oct 21 23:27:04 2024 +0800
+
+    Update README.md
+
+commit 6c87c34f2a82dbdee98ce5e2fb10b0c9d4ab8b92
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Mon Oct 21 23:26:09 2024 +0800
+
+    Update README.md
+
+commit 5bd5fdd35ecff2a3be97510f24dc81dd7e00a13c
+Author: IvEr45 <135097522+IvEr45@users.noreply.github.com>
+Date:   Mon Oct 21 23:24:08 2024 +0800
+
+    Create README.md
+
+commit 6467f444fb5255b81f892ffd4e4eff52b87d519e
+Author: IvEr45 <iferasan@gmail.com>
+Date:   Mon Oct 21 23:21:40 2024 +0800
+
+    Technical Documentation
+
+commit c0e7cb813fdbaa79f41bfcd3689a195a0a24b5bb
+Author: IvEr45 <iferasan@gmail.com>
+Date:   Mon Oct 21 21:27:01 2024 +0800
+
+    Tribute Page
+    
+    Signed-off-by: IvEr45 <iferasan@gmail.com>
+
+commit 1941d5ddfb7827ff8aea67849b883260912be592
+Author: IvEr45 <iferasan@gmail.com>
+Date:   Mon Oct 21 20:53:25 2024 +0800
+
+    Tribute Page
+
+commit 7629dff98f912fd09f31501feb289d9c6bde0962
+Author: IvEr45 <iferasan@gmail.com>
+Date:   Mon Oct 21 20:48:15 2024 +0800
+
+    Tribute Page
+
+commit ab5d3c1f67ffba13021ac8dd99daf5389a69f117
+Author: IvEr45 <iferasan@gmail.com>
+Date:   Mon Oct 21 19:38:30 2024 +0800
+
+    Survey Website
